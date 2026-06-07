@@ -1,5 +1,5 @@
 {
-  "modelId": "http://dataspecer.com/packages/local-root/9f85d140-63bc-4f3a-988a-908b6db093f9/vocabulary",
+  "modelId": "d524ba10-9ce8-4316-abaf-fa342ead8969",
   "modelAlias": "Data Specification Vocabulary (DSV)",
   "entities": {
     "https://w3id.org/dsv#reusedFromResource": {
